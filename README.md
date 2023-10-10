@@ -1,13 +1,15 @@
 # Hey there, I'm Minkey! 🐒
+Student Developer...
+--------------------
 
 Welcome to my GitHub jungle, where coding is bananas! I swing around with Python, C++, and JavaScript to create awesome stuff. Here's a bit about me:
 
 ## About Me
 
 - 🐍 I really like Python
-- 🖥️ I enjoy C++
-- 🌐 I work with JavaScript too
-- 🎓 I'm learning computer science
+- 🖥️ I enjoy JavaScript
+- 🌐 I work with C++ too
+- 🎓 I'm doing my b.tech in computer science
 - 🌟 I like learning new things
 
 ## My Interests
