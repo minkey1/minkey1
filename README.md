@@ -1,4 +1,4 @@
-# Hey there, I'm Minkey! 🐒
+# Hey there, I'm Vansh Bharadwaj, aka Minkey! 🐒
 Student Developer...
 --------------------
 
