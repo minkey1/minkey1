@@ -28,7 +28,7 @@ Feel free to check out my projects!
 
 I'm open to working together or just chatting:
 
-- 📧 Email: vansh.bharadwaj2004@gmail.com
+- 📧 Email: bharadwaj.vansh2004@gmail.com
 - 💼 LinkedIn: [Vansh Bharadwaj](https://www.linkedin.com/in/vansh-bharadwaj)
 
 Thanks for swinging by my GitHub jungle! Let's have a "monkey-tastic" time coding together! 🚀👨‍💻🍌
